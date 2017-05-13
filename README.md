@@ -1,2 +1,3 @@
 # Hello-World
-a repositry
+a repository
+Hi there,I am using github.
